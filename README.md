@@ -9,7 +9,9 @@ In this ‘Data Analysis’ project, we’ll analyze a global Pharmaceutical Man
 
 Features
 PowerBI Desktop[For creating a report]
+
 PowerQuery Editor [For data-transformation/data-modeling]
+
 PowerBI Service [For making the report accessible on the web without PowerBI login]
 Multipage fully Interactive Report [For drawing insights and analysis]
 
